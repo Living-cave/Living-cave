@@ -24,7 +24,7 @@
 
 
 ### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)]((https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm))
+[![Spotify](https://spotify-live.vercel.app/api/spotify)]((https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm?si=395eb08359654abf))
 
 
 ### 🚀 Languages and Tools:
